@@ -1,0 +1,74 @@
+[
+  {
+    "id": "fac_alnoor_dubai",
+    "name": "Al-Noor Medical Center",
+    "city": "Dubai",
+    "country": "UAE",
+    "address": "Sheikh Zayed Road, Dubai",
+    "hasEmergencyDepartment": true
+  },
+  {
+    "id": "fac_riyadh_general",
+    "name": "Riyadh General Hospital",
+    "city": "Riyadh",
+    "country": "Saudi Arabia",
+    "address": "King Fahd Road, Riyadh",
+    "hasEmergencyDepartment": true
+  },
+  {
+    "id": "fac_cairo_specialty",
+    "name": "Cairo Specialty Clinic",
+    "city": "Cairo",
+    "country": "Egypt",
+    "address": "Tahrir Square, Cairo",
+    "hasEmergencyDepartment": false
+  },
+  {
+    "id": "fac_amman_care",
+    "name": "Amman Care Hospital",
+    "city": "Amman",
+    "country": "Jordan",
+    "address": "Abdali Boulevard, Amman",
+    "hasEmergencyDepartment": true
+  },
+  {
+    "id": "fac_telehealth_network",
+    "name": "HealTrip Telehealth Network",
+    "city": "Remote",
+    "country": "Remote",
+    "address": "Video consultation only — no physical address",
+    "hasEmergencyDepartment": false
+  },
+  {
+    "id": "fac_doha_medcity",
+    "name": "Doha MedCity Hospital",
+    "city": "Doha",
+    "country": "Qatar",
+    "address": "Al Corniche Street, Doha",
+    "hasEmergencyDepartment": true
+  },
+  {
+    "id": "fac_beirut_clemenceau",
+    "name": "Beirut Clemenceau Clinic",
+    "city": "Beirut",
+    "country": "Lebanon",
+    "address": "Clemenceau Street, Beirut",
+    "hasEmergencyDepartment": false
+  },
+  {
+    "id": "fac_cairo_children",
+    "name": "Cairo Children's Hospital",
+    "city": "Cairo",
+    "country": "Egypt",
+    "address": "Heliopolis, Cairo",
+    "hasEmergencyDepartment": true
+  },
+  {
+    "id": "fac_dubai_womens",
+    "name": "Dubai Women's & Family Hospital",
+    "city": "Dubai",
+    "country": "UAE",
+    "address": "Al Wasl Road, Dubai",
+    "hasEmergencyDepartment": false
+  }
+]

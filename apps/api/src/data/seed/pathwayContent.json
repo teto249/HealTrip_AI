@@ -1,0 +1,32 @@
+[
+  {
+    "key": "referral",
+    "bodyEn": "A referral simply means a specialist takes a closer look at something your primary symptoms point to. You can book directly with the specialist we matched — no need to see a general practitioner first for this.",
+    "bodyAr": "الإحالة تعني ببساطة أن أخصائيًا سيفحص عن قرب ما تشير إليه أعراضك الأساسية. يمكنك الحجز مباشرة مع الأخصائي الذي اخترناه لك — لا حاجة لرؤية طبيب عام أولاً في هذه الحالة."
+  },
+  {
+    "key": "second_opinion",
+    "bodyEn": "Getting a second opinion is a normal, reasonable step — it does not imply anything went wrong with your first diagnosis. Bring your existing results or reports to the second consultation so the new specialist has the full picture.",
+    "bodyAr": "الحصول على رأي ثانٍ خطوة طبيعية ومعقولة — ولا يعني أن هناك خطأ في التشخيص الأول. أحضر نتائجك أو تقاريرك الحالية إلى الاستشارة الثانية حتى يكون لدى الأخصائي الجديد الصورة الكاملة."
+  },
+  {
+    "key": "pre_visit_prep",
+    "bodyEn": "Before your visit: write down when the symptom started, what makes it better or worse, and any medications you're currently taking. Bring a valid ID and any prior test results if you have them.",
+    "bodyAr": "قبل زيارتك: دوّن متى بدأ العرض، وما الذي يحسّنه أو يزيده سوءًا، وأي أدوية تتناولها حاليًا. أحضر بطاقة هوية سارية وأي نتائج فحوصات سابقة إن وجدت."
+  },
+  {
+    "key": "telehealth_vs_in_person",
+    "bodyEn": "A telehealth visit works well for discussing symptoms, reviewing results, and follow-ups. An in-person visit is better when a physical examination, imaging, or a procedure is likely to be needed.",
+    "bodyAr": "الاستشارة عن بُعد مناسبة لمناقشة الأعراض ومراجعة النتائج والمتابعة. أما الزيارة الحضورية فهي الأفضل عندما يكون الفحص الجسدي أو التصوير أو إجراء ما مطلوبًا على الأرجح."
+  },
+  {
+    "key": "out_of_scope_redirect",
+    "bodyEn": "That's outside what this assistant can help with directly — a member of our care team will follow up with you on it.",
+    "bodyAr": "هذا خارج ما يمكن لهذا المساعد التعامل معه مباشرة — سيتواصل معك أحد أعضاء فريق الرعاية بخصوصه."
+  },
+  {
+    "key": "emergency_redirect",
+    "bodyEn": "Based on what you've described, this needs immediate in-person emergency care — please go to the nearest emergency department now, or call local emergency services.",
+    "bodyAr": "بناءً على ما وصفته، تحتاج هذه الحالة إلى رعاية طارئة فورية وجهًا لوجه — يرجى التوجه إلى أقرب قسم طوارئ الآن، أو الاتصال بخدمات الطوارئ المحلية."
+  }
+]

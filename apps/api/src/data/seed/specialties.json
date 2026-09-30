@@ -1,0 +1,18 @@
+[
+  { "id": "spec_cardiology", "name": "Cardiology", "description": "Heart and cardiovascular system." },
+  { "id": "spec_emergency", "name": "Emergency Medicine", "description": "Immediate care for acute, life-threatening conditions." },
+  { "id": "spec_general", "name": "General Practice", "description": "First point of contact for most non-urgent symptoms." },
+  { "id": "spec_orthopedics", "name": "Orthopedics", "description": "Bones, joints, ligaments and muscles." },
+  { "id": "spec_pulmonology", "name": "Pulmonology", "description": "Lungs and the respiratory system." },
+  { "id": "spec_dermatology", "name": "Dermatology", "description": "Skin, hair and nails." },
+  { "id": "spec_gastroenterology", "name": "Gastroenterology", "description": "Digestive system, stomach and bowel." },
+  { "id": "spec_neurology", "name": "Neurology", "description": "Brain, spine and nervous system." },
+  { "id": "spec_pediatrics", "name": "Pediatrics", "description": "Medical care for infants, children and adolescents." },
+  { "id": "spec_ophthalmology", "name": "Ophthalmology", "description": "Eyes and vision." },
+  { "id": "spec_ent", "name": "ENT (Otolaryngology)", "description": "Ear, nose and throat." },
+  { "id": "spec_psychiatry", "name": "Psychiatry", "description": "Mental health, mood and anxiety disorders." },
+  { "id": "spec_urology", "name": "Urology", "description": "Urinary tract and male reproductive system." },
+  { "id": "spec_rheumatology", "name": "Rheumatology", "description": "Autoimmune and joint-inflammation conditions." },
+  { "id": "spec_endocrinology", "name": "Endocrinology", "description": "Hormones, thyroid and diabetes." },
+  { "id": "spec_obgyn", "name": "Obstetrics & Gynecology", "description": "Pregnancy and women's reproductive health." }
+]

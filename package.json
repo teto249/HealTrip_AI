@@ -1,0 +1,21 @@
+{
+  "name": "healtrip-patient-decision-assistant",
+  "private": true,
+  "version": "0.1.0",
+  "description": "HealTrip AI Patient Decision Assistant — NestJS agent backend + Next.js chat UI.",
+  "workspaces": [
+    "apps/api",
+    "apps/web"
+  ],
+  "scripts": {
+    "dev": "concurrently -k -n api,web -c blue,green \"npm run start:dev -w apps/api\" \"npm run dev -w apps/web\"",
+    "dev:api": "npm run start:dev -w apps/api",
+    "dev:web": "npm run dev -w apps/web",
+    "build": "npm run build -w apps/api && npm run build -w apps/web",
+    "test": "npm run test -w apps/api",
+    "typecheck": "npm run typecheck -w apps/api && npm run typecheck -w apps/web"
+  },
+  "devDependencies": {
+    "concurrently": "^9.0.1"
+  }
+}

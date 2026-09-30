@@ -1,0 +1,89 @@
+[
+  { "symptomKeyword": "chest pain", "specialtyId": "spec_cardiology", "weight": 0.9 },
+  { "symptomKeyword": "chest tightness", "specialtyId": "spec_cardiology", "weight": 0.85 },
+  { "symptomKeyword": "chest pressure", "specialtyId": "spec_cardiology", "weight": 0.85 },
+  { "symptomKeyword": "palpitations", "specialtyId": "spec_cardiology", "weight": 0.8 },
+  { "symptomKeyword": "high blood pressure", "specialtyId": "spec_cardiology", "weight": 0.75 },
+
+  { "symptomKeyword": "breath", "specialtyId": "spec_pulmonology", "weight": 0.8 },
+  { "symptomKeyword": "breathing", "specialtyId": "spec_pulmonology", "weight": 0.8 },
+  { "symptomKeyword": "breathless", "specialtyId": "spec_pulmonology", "weight": 0.8 },
+  { "symptomKeyword": "cough", "specialtyId": "spec_pulmonology", "weight": 0.75 },
+  { "symptomKeyword": "asthma", "specialtyId": "spec_pulmonology", "weight": 0.85 },
+  { "symptomKeyword": "wheezing", "specialtyId": "spec_pulmonology", "weight": 0.8 },
+
+  { "symptomKeyword": "ankle", "specialtyId": "spec_orthopedics", "weight": 0.85 },
+  { "symptomKeyword": "sprain", "specialtyId": "spec_orthopedics", "weight": 0.85 },
+  { "symptomKeyword": "knee", "specialtyId": "spec_orthopedics", "weight": 0.8 },
+  { "symptomKeyword": "joint pain", "specialtyId": "spec_orthopedics", "weight": 0.75 },
+  { "symptomKeyword": "back pain", "specialtyId": "spec_orthopedics", "weight": 0.6 },
+  { "symptomKeyword": "fracture", "specialtyId": "spec_orthopedics", "weight": 0.9 },
+
+  { "symptomKeyword": "rash", "specialtyId": "spec_dermatology", "weight": 0.85 },
+  { "symptomKeyword": "skin", "specialtyId": "spec_dermatology", "weight": 0.75 },
+  { "symptomKeyword": "itching", "specialtyId": "spec_dermatology", "weight": 0.7 },
+  { "symptomKeyword": "acne", "specialtyId": "spec_dermatology", "weight": 0.8 },
+
+  { "symptomKeyword": "stomach", "specialtyId": "spec_gastroenterology", "weight": 0.8 },
+  { "symptomKeyword": "abdominal pain", "specialtyId": "spec_gastroenterology", "weight": 0.85 },
+  { "symptomKeyword": "nausea", "specialtyId": "spec_gastroenterology", "weight": 0.6 },
+  { "symptomKeyword": "diarrhea", "specialtyId": "spec_gastroenterology", "weight": 0.75 },
+  { "symptomKeyword": "bloating", "specialtyId": "spec_gastroenterology", "weight": 0.65 },
+
+  { "symptomKeyword": "headache", "specialtyId": "spec_neurology", "weight": 0.75 },
+  { "symptomKeyword": "migraine", "specialtyId": "spec_neurology", "weight": 0.85 },
+  { "symptomKeyword": "dizziness", "specialtyId": "spec_neurology", "weight": 0.6 },
+  { "symptomKeyword": "numbness", "specialtyId": "spec_neurology", "weight": 0.7 },
+
+  { "symptomKeyword": "fever", "specialtyId": "spec_general", "weight": 0.6 },
+  { "symptomKeyword": "fatigue", "specialtyId": "spec_general", "weight": 0.55 },
+  { "symptomKeyword": "cold", "specialtyId": "spec_general", "weight": 0.6 },
+  { "symptomKeyword": "sore throat", "specialtyId": "spec_general", "weight": 0.5 },
+  { "symptomKeyword": "general checkup", "specialtyId": "spec_general", "weight": 0.9 },
+
+  { "symptomKeyword": "child fever", "specialtyId": "spec_pediatrics", "weight": 0.85 },
+  { "symptomKeyword": "vaccination", "specialtyId": "spec_pediatrics", "weight": 0.85 },
+  { "symptomKeyword": "growth check", "specialtyId": "spec_pediatrics", "weight": 0.8 },
+  { "symptomKeyword": "child rash", "specialtyId": "spec_pediatrics", "weight": 0.75 },
+
+  { "symptomKeyword": "vision", "specialtyId": "spec_ophthalmology", "weight": 0.85 },
+  { "symptomKeyword": "blurred vision", "specialtyId": "spec_ophthalmology", "weight": 0.85 },
+  { "symptomKeyword": "eye pain", "specialtyId": "spec_ophthalmology", "weight": 0.85 },
+  { "symptomKeyword": "red eye", "specialtyId": "spec_ophthalmology", "weight": 0.75 },
+  { "symptomKeyword": "eye", "specialtyId": "spec_ophthalmology", "weight": 0.6 },
+
+  { "symptomKeyword": "ear pain", "specialtyId": "spec_ent", "weight": 0.85 },
+  { "symptomKeyword": "ear infection", "specialtyId": "spec_ent", "weight": 0.85 },
+  { "symptomKeyword": "hearing loss", "specialtyId": "spec_ent", "weight": 0.8 },
+  { "symptomKeyword": "sinus", "specialtyId": "spec_ent", "weight": 0.8 },
+  { "symptomKeyword": "sore throat", "specialtyId": "spec_ent", "weight": 0.5 },
+  { "symptomKeyword": "nosebleed", "specialtyId": "spec_ent", "weight": 0.75 },
+
+  { "symptomKeyword": "anxiety", "specialtyId": "spec_psychiatry", "weight": 0.85 },
+  { "symptomKeyword": "depression", "specialtyId": "spec_psychiatry", "weight": 0.85 },
+  { "symptomKeyword": "panic attack", "specialtyId": "spec_psychiatry", "weight": 0.85 },
+  { "symptomKeyword": "insomnia", "specialtyId": "spec_psychiatry", "weight": 0.65 },
+  { "symptomKeyword": "mood", "specialtyId": "spec_psychiatry", "weight": 0.7 },
+  { "symptomKeyword": "stress", "specialtyId": "spec_psychiatry", "weight": 0.55 },
+
+  { "symptomKeyword": "urinary", "specialtyId": "spec_urology", "weight": 0.85 },
+  { "symptomKeyword": "urination", "specialtyId": "spec_urology", "weight": 0.8 },
+  { "symptomKeyword": "kidney stone", "specialtyId": "spec_urology", "weight": 0.85 },
+  { "symptomKeyword": "blood in urine", "specialtyId": "spec_urology", "weight": 0.85 },
+
+  { "symptomKeyword": "joint stiffness", "specialtyId": "spec_rheumatology", "weight": 0.8 },
+  { "symptomKeyword": "joint swelling", "specialtyId": "spec_rheumatology", "weight": 0.8 },
+  { "symptomKeyword": "arthritis", "specialtyId": "spec_rheumatology", "weight": 0.85 },
+  { "symptomKeyword": "autoimmune", "specialtyId": "spec_rheumatology", "weight": 0.75 },
+
+  { "symptomKeyword": "thyroid", "specialtyId": "spec_endocrinology", "weight": 0.85 },
+  { "symptomKeyword": "diabetes", "specialtyId": "spec_endocrinology", "weight": 0.85 },
+  { "symptomKeyword": "blood sugar", "specialtyId": "spec_endocrinology", "weight": 0.8 },
+  { "symptomKeyword": "weight gain", "specialtyId": "spec_endocrinology", "weight": 0.5 },
+  { "symptomKeyword": "unexplained weight loss", "specialtyId": "spec_endocrinology", "weight": 0.7 },
+
+  { "symptomKeyword": "pregnancy", "specialtyId": "spec_obgyn", "weight": 0.85 },
+  { "symptomKeyword": "menstrual", "specialtyId": "spec_obgyn", "weight": 0.8 },
+  { "symptomKeyword": "period pain", "specialtyId": "spec_obgyn", "weight": 0.8 },
+  { "symptomKeyword": "pelvic pain", "specialtyId": "spec_obgyn", "weight": 0.75 }
+]
